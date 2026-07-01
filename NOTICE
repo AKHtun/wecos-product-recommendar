@@ -1,0 +1,93 @@
+WEcoS Product Recommendar
+Copyright © 2026 Aung Khaing Htun, CLS. All rights reserved.
+Licensed under PolyForm Noncommercial License 1.0.0.
+
+# NOTICE
+
+## Project
+
+**WEcoS Product Recommendar** — a suite of five Distributor Lubricant
+Engineer (DLE) skills for the MuleRun Fluids Suite fluid product
+categories:
+
+1. **lubricant-recommender** — engine oils, gear oils, hydraulic oils,
+   compressor oils, turbine oils, refrigeration-compressor oils, PAG,
+   ester, and heat-transfer fluids
+2. **coolant-recommender** — engine coolants / antifreeze (light-duty,
+   heavy-duty diesel, off-highway, marine, stationary, OEM concentrates)
+3. **diesel-recommender** — ULSD / EN 590, off-road / mining diesel,
+   additized premium diesel, marine distillate fuels (ISO 8217 DMA /
+   DMZ / DMB)
+4. **adblue-def-recommender** — AdBlue / DEF (Diesel Exhaust Fluid) —
+   ISO 22241 AUS 32 urea solution for SCR-equipped diesel
+5. **grease-recommender** — industrial, automotive, food-grade (NSF H1),
+   marine, mining / heavy-load, electric-motor, refrigeration-compressor,
+   central-lubrication, railway-axlebox, and high-temperature greases
+
+The suite is built on top of the MuleRun Fluids Suite prototyping
+environment. MuleRun is treated as the prototyping host, not as a
+separate copyright or licence layer.
+
+## Human authorship
+
+**Sole author:** Aung Khaing Htun, CLS (Certified Lubrication
+Specialist, STLE).
+
+Methodology is the cumulative product of the author's years of experience
+in lubrication engineering and tribology, applied across commercial
+bus, heavy-duty truck, mining, marine, and general industrial
+applications, plus formal industry references.
+
+## AI assistance (Jul 2026)
+
+Created with AI assistance from:
+
+- **WEcoS Agents**
+- **MuleRun Agent**
+- **Mavis** by **MiniMax** (DLR.1 / Mavis, session #414668884336737,
+  Jun 2026)
+
+AI assistance was used for SKILL.md drafting, methodology sections,
+and validation. All final methodology decisions, product recommendations,
+and corrections were authored and validated by the human author.
+
+## Source-material attribution
+
+The skills draw from the author's accumulated product-recommendation
+process and personal trainings, supplemented by widely-published
+industry references (e.g., ExxonMobil Grease Compatibility Paper /
+ASTM D6185; DIN 51502 and ISO 6743-9 designation codes; ACEA / API
+service categories; EN 590; ISO 22241; Volvo VDS / VOLVO 97718; etc.).
+No specific third-party source material is reproduced verbatim.
+
+## Attribution format
+
+When redistributing, adapting, or describing the Software, please
+preserve the following attribution in any accompanying documentation:
+
+> WEcoS Product Recommendar by Aung Khaing Htun, CLS.
+> Licensed under PolyForm Noncommercial License 1.0.0.
+> https://github.com/AKHtun/wecos-product-recommendar
+
+When citing in academic or professional work, cite as the suite
+in its current upstream form; the per-skill CONTRIBUTORS.md gives
+authorship lineage for each skill individually.
+
+## Trademarks
+
+All product names, OEM names, and standards-body names mentioned in
+the WEcoS Product Recommendar suite (e.g., Mobil, Shell, Caltex,
+TotalEnergies, SPC, Volvo, MAN, MAN, MB, Mack, Renault, Scania,
+DAF, IVECO, MTU, Deutz, Caterpillar, Cummins, Detroit Diesel,
+ACEA, API, ISO, EN, NEA, ASTM, DIN, IPOS) are the property of their
+respective owners and are used here in their descriptive sense only.
+No endorsement or affiliation is implied.
+
+"WEcoS" and "WEcoS Product Recommendar" identify this skill suite
+and are used by permission of the Licensor.
+
+## Contact
+
+- GitHub: https://github.com/AKHtun
+- Issues / commercial-licensing enquiries:
+  https://github.com/AKHtun/wecos-product-recommendar/issues

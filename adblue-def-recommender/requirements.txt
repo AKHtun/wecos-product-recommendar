@@ -1,0 +1,5 @@
+reportlab>=4.0
+openpyxl>=3.1
+# Optional fallbacks for render_pdf.py — install if you prefer them:
+# markdown>=3.5
+# weasyprint>=60

@@ -1,0 +1,50 @@
+# ============================================
+# WEcoS Product Recommendar — .gitignore
+# ============================================
+
+# Generated artifacts (per-skill output folder)
+# Each skill ships a /output/ directory for rendered PDFs, Excel logs,
+# test reports, etc. These are working artifacts and not part of the
+# published skill. Keep them out of the repo.
+*/output/
+/output/
+**/output/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Test outputs
+*.pdf.lock
+*.tmp
+
+# Rendered Mermaid / diagram outputs (the source .md / .mmd stays)
+*.png.lock
+*.svg.lock
+
+# Local IP / contact info overrides
+local_overrides.md
+# macOS resource forks / metadata
+._*

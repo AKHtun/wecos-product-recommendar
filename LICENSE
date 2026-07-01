@@ -1,0 +1,76 @@
+# PolyForm Noncommercial License 1.0.0
+
+> Note: this is a human-readable paraphrase of the PolyForm Noncommercial
+> License 1.0.0 — refer to the canonical text at
+> <https://polyformproject.org/licenses/noncommercial/1.0.0> in case of
+> any conflict. The canonical text is the legal document.
+
+## Copyright
+
+WEcoS Product Recommendar
+
+Copyright © 2026 Aung Khaing Htun, CLS. All rights reserved.
+
+Sole author and licensor: **Aung Khaing Htun, CLS**
+GitHub: https://github.com/AKHtun
+
+## Acceptance
+
+In order to obtain any license under these terms, you must agree
+to all of the terms of this License. The Licensor hereby grants you
+a license to use the Software, but only if you agree to all of the
+terms of this License.
+
+## License Grant
+
+Subject to the terms and conditions of this License, the Licensor
+hereby grants you a non-exclusive, worldwide, non-transferable,
+non-sublicensable, royalty-free license to use, copy, modify, and
+distribute the Software for any **non-commercial purpose**, including
+the rights to use, copy, modify, and distribute the Software for any
+non-commercial purpose.
+
+A non-commercial purpose includes (without limitation): personal study,
+academic research, internal training, individual professional use,
+contribution back to the upstream project, evaluation, and integration
+into a non-commercial open-source workflow.
+
+## Non-Commercial Use
+
+The Software may **not** be used by you for any commercial purpose.
+A commercial purpose is any purpose intended to generate revenue or
+other commercial consideration, including without limitation any use
+of the Software in connection with a product or service that is used
+to generate revenue, or any use of the Software to support any commercial
+activity, or any bundled or OEM integration into a paid offering.
+
+**If you wish to use the Software for commercial purposes, please
+contact the Licensor** (open a GitHub Issue at
+`https://github.com/AKHtun/wecos-product-recommendar/issues`) **for a
+separate written license.**
+
+## Contributions
+
+Contributions back to the upstream project are welcome and encouraged.
+By contributing, you affirm that your contributions are your own work
+(or you have sufficient rights to submit them under this License) and
+that you agree to license them under the same PolyForm Noncommercial
+License 1.0.0.
+
+## Disclaimer
+
+**The Software is provided "AS IS", without warranty of any kind,**
+express or implied, including but not limited to the warranties of
+merchantability, fitness for a particular purpose, and non-infringement.
+In no event shall the Licensor be liable for any claim, damages, or
+other liability, whether in an action of contract, tort, or otherwise,
+arising from, out of, or in connection with the Software or the use
+or other dealings in the Software.
+
+## Trademarks
+
+"WEcoS", "WEcoS Product Recommendar", and any related marks are
+trademarks or identifiers of the Licensor. Nothing in this License
+grants you any right to use any such marks, except as reasonably
+required to describe the origin of the Software or for non-commercial
+attribution purposes.
