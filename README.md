@@ -2,8 +2,8 @@
 
 # WEcoS Product Recommendar
 
-**A suite of Distributor Lubricant Engineer (DLE) skills for the MuleRun
-Fluids Suite fluid product categories.**
+**A suite of Distributor Lubricant Engineer (DLE) skills for all the
+fluid product categories.**
 
 [![License: PolyForm Noncommercial 1.0.0](https://img.shields.io/badge/license-PolyForm--Noncommercial--1.0.0-blue.svg)](LICENSE)
 [![Author](https://img.shields.io/badge/author-Aung%20Khaing%20Htun%2C%20CLS-orange.svg)](CONTRIBUTORS.md)
