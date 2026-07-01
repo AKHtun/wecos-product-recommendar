@@ -18,7 +18,7 @@ before, **3 minutes** if you have.
    |---|---|
    | Owner | `AKHtun` |
    | Repository name | `wecos-product-recommendar` |
-   | Description | *Suite of Distributor Lubricant Engineer (DLE) skills for the MuleRun Fluids Suite fluid product categories — by Aung Khaing Htun, CLS* |
+   | Description | *Suite of Distributor Lubricant Engineer (DLE) skills for all the fluid product categories — by Aung Khaing Htun, CLS* |
    | Visibility | **Public** |
    | Initialize with... | **None** (no README, no .gitignore, no license — we'll push everything) |
 
@@ -85,7 +85,7 @@ After the push succeeds, go to `https://github.com/AKHtun/wecos-product-recommen
 
 | Field | Value |
 |---|---|
-| Description | *Suite of Distributor Lubricant Engineer (DLE) skills for the MuleRun Fluids Suite fluid product categories* |
+| Description | *Suite of Distributor Lubricant Engineer (DLE) skills for all the fluid product categories* |
 | Website | (leave blank) |
 | Topics (tags) | `lubrication`, `tribology`, `mle`, `distributor`, `mulerun`, `wecos`, `polyform-noncommercial`, `def`, `adblue`, `coolant`, `grease`, `diesel` |
 
