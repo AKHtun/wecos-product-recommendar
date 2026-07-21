@@ -1,0 +1,37 @@
+# CODEOWNERS
+# Each line is a file pattern followed by one or more owners.
+# Order matters: later patterns take precedence.
+# Reference: https://docs.github.com/repositories/creating-and-managing-repository/setting-up-teams-and-collaborators/about-code-owners
+
+# Default owner for everything
+* @AKHtun
+
+# Skill-specific ownership (currently sole owner; expand as team grows)
+# Format: /path/ @owner1 @owner2
+/lubricant-recommender/ @AKHtun
+/coolant-recommender/ @AKHtun
+/diesel-recommender/ @AKHtun
+/adblue-def-recommender/ @AKHtun
+/grease-recommender/ @AKHtun
+
+# Methodology files (high-stakes; require owner review)
+/SKILL.md @AKHtun
+/CONTRIBUTING.md @AKHtun
+/templates/ @AKHtun
+/scripts/ @AKHtun
+
+# Reference data (PDS citations; verify against producer's current index)
+/references/ @AKHtun
+
+# CI/CD (workflow files require extra care)
+/.github/ @AKHtun
+
+# Documentation (release notes, examples)
+/docs/ @AKHtun
+/README.md @AKHtun
+/LICENSE @AKHtun
+
+# Sole-owner mode note
+# This file currently lists only @AKHtun as owner.
+# To expand: add additional GitHub usernames after the path.
+# Example: /lubricant-recommender/ @AKHtun @teammate
