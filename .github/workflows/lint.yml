@@ -1,0 +1,48 @@
+name: Lint & Validate
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Check PDS URLs (live validation)
+        run: python scripts/ci_check_pds_urls.py
+        continue-on-error: true  # Non-blocking; manual review required
+
+      - name: Validate table widths
+        run: python scripts/ci_check_table_widths.py
+        continue-on-error: true  # Non-blocking; manual review required
+
+      - name: Sync CONTRIBUTORS.md lineage
+        run: python scripts/ci_validate_contributors_sync.py
+        continue-on-error: true  # Non-blocking; manual review required
+
+      - name: Summary
+        if: always()
+        run: |
+          echo "✅ Lint checks completed"
+          echo "If any checks failed, review the logs above for details."
